@@ -59,9 +59,9 @@ Some additional [resources](https://twitter.com/andrewheiss/status/1238165644941
 
 Some other services for video-conferencing you can explore:
 
-[Jitsi](https://meet.jit.si)
+[Jitsi](https://meet.jit.si) is an open-source alternative for Zoom.
 
-[Google Hangouts](hangouts.googe)
+[Google Hangouts](hangouts.google.com)
 
 
 ### General tips for teaching online
