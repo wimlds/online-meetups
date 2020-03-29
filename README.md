@@ -61,8 +61,8 @@ Some other services for video-conferencing you can explore:
 
 [Jitsi](https://meet.jit.si) is an open-source alternative for Zoom.
 
-[Google Hangouts](hangouts.google.com)
-
+[Google Hangouts](hangouts.google.com) supports group calls of up to 10 participants.
+Similar to Zoom & Webex, with a corporate GSuite account you could get around the participant limit and add up to 250 participants to a call. 
 
 ### General tips for teaching online
 
