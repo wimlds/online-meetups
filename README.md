@@ -75,6 +75,6 @@ Similar to Zoom & Webex, with a corporate GSuite account you could get around th
 
 ## Resources from Meetup.com
 
-Meetup event policies and the coronavirus (COVID-19): https://help.meetup.com/hc/en-us/articles/360041040931
+[Meetup event policies and the coronavirus (COVID-19)](https://help.meetup.com/hc/en-us/articles/360041040931)
 
-How to Host an Online Event on Meetup: https://help.meetup.com/hc/en-us/articles/360040609112
+[How to Host an Online Event on Meetup](https://help.meetup.com/hc/en-us/articles/360040609112)
