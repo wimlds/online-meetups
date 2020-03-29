@@ -56,11 +56,12 @@ More resources: https://twitter.com/margootjeg/status/1238173760034721792
 
 **Free version**: Meetings can last as long as needed. They have a 100 participant limit.
 If you work for a company that uses Webex and have a corporate account, you can get around these limits.
+
 [Pricing](https://www.webex.com/pricing/index.html)
 
 Some additional [resources](https://twitter.com/andrewheiss/status/1238165644941680641) on using Webex.
 
-Some other services for video-conferencing you can explore:
+### Other services for video-conferencing you can explore:
 
 [Jitsi](https://meet.jit.si) is an open-source alternative for Zoom.
 
