@@ -32,9 +32,7 @@ have virtual study sessions around it.
 - If you work for a company that uses Zoom and you have a paid/corporate account, that is one way of getting around the 100 participant or 40 minute limit.
 - Companies, instead of hosting, could offer to virtually “host” (sponsor) the meetup by providing a corporate Zoom account that you can use with fewer limitations. 
 - On a paid account, you can start a meeting and then make another person a co-host which gives them some control (for example, if a company donates their pro account for you to use, they can make you a co-host so you can control things like breakout rooms).
-- How to schedule a meeting with Zoom: https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms
-- Getting started with breakout rooms: https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms
-- Very good guide to read before hosting your first Zoom meeting: https://blog.zoom.us/wordpress/2020/03/20/keep-the-party-crashers-from-crashing-your-zoom-event/
+- Recommended how-to articles: [How to schedule a meeting with Zoom](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings), [Getting started with breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms), [Keep the party crashers from crashing your zoom event](https://blog.zoom.us/wordpress/2020/03/20/keep-the-party-crashers-from-crashing-your-zoom-event/)
 - More resources: https://twitter.com/margootjeg/status/1238173760034721792
 
 ### Webex
