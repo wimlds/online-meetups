@@ -1,6 +1,6 @@
 # Online Meetups
 
-The WiMLDS guide to running online meetups.
+The WiMLDS guide to running online meetups. This is a work-in-progress -- we are looking for contributions! 
 
 
 ### How to run an online meetup
