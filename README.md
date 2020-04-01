@@ -2,6 +2,7 @@
 
 The WiMLDS guide to running online meetups. This is a work-in-progress -- we are looking for contributions! 
 
+What is WiMLDS?  The mission of Women in Machine Learning & Data Science (WiMLDS) is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.  Learn more at [wimlds.org](http://wimlds.org).
 
 ### How to run an online meetup
 
