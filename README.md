@@ -9,12 +9,11 @@ What is WiMLDS?  The mission of Women in Machine Learning & Data Science (WiMLDS
 1. Pick a time and date for your online meetup just like an in-person meetup. Use meetup.com as usual to plan the event.
 2. If you use a tool with a participant limit, you will have to limit attendance via meetup.com RSVPs and deliver the web conference URL privately to participants only. Alternatively, you can just post the link publicly on your meetup event page and have a “first-come, first-served” policy.  For example, if you use Zoom, the free meetings have a limit of 100 participants.
 3. Choose a format/topic for your meetup: talks, co-working/hangout, networking, code workshop, etc.
-4. Choose a web conferencing platform (see below for options).
-    Some things to consider when evaluating different platforms:
+4. Choose a web conferencing platform (see below for options). Most WiMLDS groups are currently using Zoom.  Some things to consider when evaluating different platforms:
     - You might want something with an option for participants to group chat with each other.
     - Should your participants be muted throughout presentations or do you want anyone to be able to speak at any time?
     - If it's the latter, you might want that to be regulated by a moderator. Some tools will let you virtually raise your hand before speaking. You may also want a combination of both options.
-5. Think about how to enforce the Code of Conduct in your chat spaces.
+5. Think about how to enforce the [Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) in your chat spaces.  Assign someone to be a moderator of the chat to watch for any bad behavior.  Be aware of the concept of "Zoom bombing" and take neccessary precautions to prevent your meetup by being hijacked by trolls. 
 6. Consider whether you can record the presentations and/or the hangout.
    - If you decide to record, it's a good idea to seek verbal consent from participants and only then upload the video to YouTube or other social media.
    If your speaker can record their talk, they can answer questions and participate in the conversation while people are viewing it. Reference: https://twitter.com/lunivore/status/1237383325045710848   
@@ -30,10 +29,14 @@ have virtual study sessions around it.
 
 - **Free version**:  Meetings can only last for 40 mins (though you can create several URLs and switch over each 40 minutes).  You can host up to 100 participants.
 - Pricing for paid versions: https://zoom.us/pricing
-- If you work for a company that uses Zoom and you have a paid/corporate account, that is one way of getting around the 100 participant or 40 minute limit.
+- **Paid version**If you work for a company that uses Zoom and you have a paid/corporate account, that is one way of getting around the 100 participant or 40 minute limit.
 - Companies, instead of hosting, could offer to virtually “host” (sponsor) the meetup by providing a corporate Zoom account that you can use with fewer limitations. 
 - On a paid account, you can start a meeting and then make another person a co-host which gives them some control (for example, if a company donates their pro account for you to use, they can make you a co-host so you can control things like breakout rooms).
-- Recommended how-to articles: [How to schedule a meeting with Zoom](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings), [Getting started with breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms), [Keep the party crashers from crashing your zoom event](https://blog.zoom.us/wordpress/2020/03/20/keep-the-party-crashers-from-crashing-your-zoom-event/)
+- Recommended how-to articles: 
+  - [How to schedule a meeting with Zoom](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings)
+  - [Getting started with breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms)
+  - [Keep the party crashers from crashing your zoom event](https://blog.zoom.us/wordpress/2020/03/20/keep-the-party-crashers-from-crashing-your-zoom-event/) and [Settings to prevent Zoom bombing](https://www.oxy.edu/offices-services/its/services/video-conferencing/zoom/settings-prevent-zoom-bombing)
+- Given the prevalence of Zoom bombing, we recommend never posting your Zoom link publicly (there's a spot on meetup.com to put the Zoom link, which will only be shown to people to RSVP).  We also recommend enabling the "Waiting Room" option, and well as turning off screen sharing for participants.  You can either make your presenters hosts, or you can temporarily allow screen sharing when you need to allow presenters to share their screen.  We will likely revise our recommendations on this soon (after we have more experience), so check back here for updates. 
 - More resources: https://twitter.com/margootjeg/status/1238173760034721792
 
 ### Webex
