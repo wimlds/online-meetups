@@ -7,8 +7,8 @@ What is WiMLDS?  The mission of Women in Machine Learning & Data Science (WiMLDS
 ### How to run an online meetup
 
 1. Pick a time and date for your online meetup just like an in-person meetup. Use meetup.com as usual to plan the event.
-2. If you use a tool with a participant limit, you will have to limit attendance via meetup.com RSVPs and deliver the web conference URL privately to participants only. Alternatively, you can just post the link publicly on your meetup event page and have a “first-come, first-served” policy.  For example, if you use Zoom, the free meetings have a limit of 100 participants.
-3. Choose a format/topic for your meetup: talks, co-working/hangout, networking, code workshop, etc.
+2. If you use a tool with a participant limit, you will have to limit attendance via meetup.com RSVPs and deliver the web conference URL privately to participants only. Alternatively, you can just post the link publicly on your meetup event page and have a "first-come, first-served" policy.  For example, if you use Zoom, the free meetings have a limit of 100 participants.
+3. Choose a format/topic for your meetup: live presentations, co-working/hangout, networking, code workshop, pre-recorded talks/videos, etc.
 4. Choose a web conferencing platform (see below for options). Most WiMLDS groups are currently using Zoom.  Some things to consider when evaluating different platforms:
     - You might want something with an option for participants to group chat with each other.
     - Should your participants be muted throughout presentations or do you want anyone to be able to speak at any time?
@@ -16,11 +16,10 @@ What is WiMLDS?  The mission of Women in Machine Learning & Data Science (WiMLDS
 5. Think about how to enforce the [Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) in your chat spaces.  Assign someone to be a moderator of the chat to watch for any bad behavior.  Be aware of the concept of "Zoom bombing" and take neccessary precautions to prevent your meetup by being hijacked by trolls. 
 6. Consider whether you can record the presentations and/or the hangout.
    - If you decide to record, it's a good idea to seek verbal consent from participants and only then upload the video to YouTube or other social media.  If you can record your meetup, please do!  We would love to put them on the WiMLDS YouTube page.  Please send an email to info@wimlds.org if you have a meetup video to share.
-   - If your speaker can record their talk, they can answer questions and participate in the conversation while people are viewing it. Reference: https://twitter.com/lunivore/status/1237383325045710848   
 7. We recommend having more than one organizer join. Extra organizers can help individuals resolve technical issues without disrupting the general flow for the rest of the audience. They can also monitor and moderate the chat for passive aggressive communication. It is recommended to add emojis to help others pick up context clues.
-8. If you are unable to find speakers, you can still host a meetup! Consider co-viewing conference talks by women and gender minorities, and moderating a discussion. Alternatively, the group can take an online learning course together and
-have virtual study sessions around it.
+8. If you are unable to find speakers for your event, you can still host a meetup! You could recruit a speaker that already has a re-recorded talk (then they can join the meeting and answer questions live in the chat).  Consider co-viewing conference talks by women and gender minorities, and moderating a discussion. Alternatively, the group can take an online learning course together and have virtual study sessions around it.  Lastly, you can keep your group together just by having casual co-working sessions (example [here](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/events/269717625/)).
 
+📅 WiMLDS has a public online meetup calendar [here](https://calendar.google.com/calendar/embed?src=8dbutt7ap4sttjbq8ua5o7g1mk%40group.calendar.google.com).  Please look through these events for inspiration and when you schedule yours, please email info@wimlds.org to get it added to the calendar.  You are also welcome to attend events from other chapters to get experience with how others are hosting online meetups... and to learn and grow the connections within our community! 
 
 ## Tools
 
