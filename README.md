@@ -15,11 +15,10 @@ What is WiMLDS?  The mission of Women in Machine Learning & Data Science (WiMLDS
     - If it's the latter, you might want that to be regulated by a moderator. Some tools will let you virtually raise your hand before speaking. You may also want a combination of both options.
 5. Think about how to enforce the [Code of Conduct](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) in your chat spaces.  Assign someone to be a moderator of the chat to watch for any bad behavior.  Be aware of the concept of "Zoom bombing" and take neccessary precautions to prevent your meetup by being hijacked by trolls. 
 6. Consider whether you can record the presentations and/or the hangout.
-   - If you decide to record, it's a good idea to seek verbal consent from participants and only then upload the video to YouTube or other social media.
-   If your speaker can record their talk, they can answer questions and participate in the conversation while people are viewing it. Reference: https://twitter.com/lunivore/status/1237383325045710848   
-   - Official organization accounts should be used for sharing content on these platforms.  
-   - We recommend having more than one organizer join. Extra organizers can help individuals resolve technical issues without disrupting the general flow for the rest of the audience. They can also monitor and moderate the chat for passive aggressive communication. It is recommended to add emojis to help others pick up context clues.
-7. If you are unable to find speakers, you can still host a meetup! Consider co-viewing conference talks by women and gender minorities, and moderating a discussion. Alternatively, the group can take an online learning course together and
+   - If you decide to record, it's a good idea to seek verbal consent from participants and only then upload the video to YouTube or other social media.  If you can record your meetup, please do!  We would love to put them on the WiMLDS YouTube page.  Please send an email to info@wimlds.org if you have a meetup video to share.
+   - If your speaker can record their talk, they can answer questions and participate in the conversation while people are viewing it. Reference: https://twitter.com/lunivore/status/1237383325045710848   
+7. We recommend having more than one organizer join. Extra organizers can help individuals resolve technical issues without disrupting the general flow for the rest of the audience. They can also monitor and moderate the chat for passive aggressive communication. It is recommended to add emojis to help others pick up context clues.
+8. If you are unable to find speakers, you can still host a meetup! Consider co-viewing conference talks by women and gender minorities, and moderating a discussion. Alternatively, the group can take an online learning course together and
 have virtual study sessions around it.
 
 
