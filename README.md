@@ -28,8 +28,7 @@ have virtual study sessions around it.
 ### Zoom
 
 - **Free version**:  Meetings can only last for 40 mins (though you can create several URLs and switch over each 40 minutes).  You can host up to 100 participants.
-- Pricing for paid versions: https://zoom.us/pricing
-- **Paid version**If you work for a company that uses Zoom and you have a paid/corporate account, that is one way of getting around the 100 participant or 40 minute limit.
+- **Paid version**: You can use your own paid account ([pricing](https://zoom.us/pricing)), or you can borrow one.  If you work for a company that uses Zoom and you have a paid/corporate account, that is one way of getting around the 100 participant or 40 minute limit.
 - Companies, instead of hosting, could offer to virtually “host” (sponsor) the meetup by providing a corporate Zoom account that you can use with fewer limitations. 
 - On a paid account, you can start a meeting and then make another person a co-host which gives them some control (for example, if a company donates their pro account for you to use, they can make you a co-host so you can control things like breakout rooms).
 - Recommended how-to articles: 
