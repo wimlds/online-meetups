@@ -34,7 +34,6 @@ What is WiMLDS?  The mission of Women in Machine Learning & Data Science (WiMLDS
   - [Getting started with breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms)
   - [Keep the party crashers from crashing your zoom event](https://blog.zoom.us/wordpress/2020/03/20/keep-the-party-crashers-from-crashing-your-zoom-event/) and [Settings to prevent Zoom bombing](https://www.oxy.edu/offices-services/its/services/video-conferencing/zoom/settings-prevent-zoom-bombing)
 - Given the prevalence of Zoom bombing, we recommend never posting your Zoom link publicly (there's a spot on meetup.com to put the Zoom link, which will only be shown to people to RSVP).  We also recommend enabling the "Waiting Room" option, and well as turning off screen sharing for participants.  You can make your speakers/presenters co-hosts, so they can share their screens.  Recently a PyLadies Berlin meetup got trolled and so they have written about the experience and advice on how to plan/prepare for it [here](https://docs.google.com/document/d/1PDDsXfO0L3BKFC2aoLT-U7EFamnLQ4EBGaAnbwo-l-U/edit?usp=drivesdk).  We also highly recommend you bookmark the ["Zoom Safety Settings Checklist"](https://mobile.twitter.com/esterlin/status/1246072374434213889) which can quickly help you get the settings correct and bounce trolls from the meeting if neccessary.
-- More resources: https://twitter.com/margootjeg/status/1238173760034721792
 
 ### Webex
 
