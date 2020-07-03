@@ -25,7 +25,7 @@ What is WiMLDS?  The mission of Women in Machine Learning & Data Science (WiMLDS
 
 ### Zoom
 
-For WiMLDS organizers, you can use the WiMLDS Zoom account to host online meetups via Zoom.  Our account can host meetings with up to 100 participants.  Get in touch with Erin on the WiMLDS Organizer Slack to schedule an online meetup on the WiMLDS Zoom account.  You can also use a different Zoom account if you want (if you need more than 100 participants, for example), but we recommed using WiMLDS, since it's free (for you) and easy.
+For WiMLDS organizers, you can use the WiMLDS Zoom account to host online meetups via Zoom.  Our account can host meetings with up to 100 participants.  Get in touch with @erin (Erin LeDell) on the WiMLDS Organizer Slack to schedule an online meetup on the WiMLDS Zoom account.  You can also use a different Zoom account if you want (if you need more than 100 participants, for example), but we recommed using WiMLDS, since it's free (for you) and easy.
 - Recommended how-to articles: 
   - [How to schedule a meeting with Zoom](https://support.zoom.us/hc/en-us/articles/201362413-Scheduling-meetings)
   - [Getting started with breakout rooms](https://support.zoom.us/hc/en-us/articles/206476093-Getting-Started-with-Breakout-Rooms)
